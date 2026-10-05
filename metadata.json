@@ -1,0 +1,6 @@
+{
+  "name": "WIG20 - Zestawienie Giełdowe i Prognoza Wzrostu",
+  "description": "Profesjonalne zestawienie analityczne 20 największych polskich spółek WIG20 z uwzględnieniem 2-letniego prognozowanego wzrostu, tempa rozwoju biznesu i wyceny C/Z.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
